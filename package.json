@@ -25,7 +25,7 @@
     "cldr-data": "31.0.2",
     "cldrjs": "0.5.5",
     "css-loader": "0.28.11",
-    "d3": "3.5.17",
+    "d3": "^4.13.0",
     "datamaps": "0.5.9",
     "datatables": "1.10.13",
     "datatables-bootstrap3-plugin": "0.6.0",
